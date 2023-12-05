@@ -1,0 +1,49 @@
+All
+Path Traversal POST Parameters
+Actuators
+Path Traversal GET Parameters
+XXE
+SQLi POST Parameters
+SQLi GET Parameters
+Test XSS Post params
+Introspection
+All POST Parameters
+Open Redirect GET Parameters
+Test XSS GET params
+XSS GET Parameters
+RCE POST Parameters
+Fuzzing Files
+XSS POST Parameters
+SSRF POST Parameters
+Blind XSS
+SQLi
+CVEs
+Blind XSS GET Parameters
+SSRF GET Parameters
+CRLF POST Parameters
+Open Redirect POST Parameters
+Path Traversal
+CRLF GET Parameters
+JWT
+Forgot Password
+Open Redirect
+X-Headers-Collab
+RCE GET Parameters
+Mobile
+Blind XSS POST Parameters
+Errors
+SSRF
+Drupal
+CORS
+SSTI
+RCE
+SSTI GET Parameters
+CRLF
+Wordpress
+SSTI POST Parameters
+Cloud
+XSS
+DRWuzz
+API
+All GET Parameters
+Spring Boot Actuator
